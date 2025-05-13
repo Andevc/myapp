@@ -9,7 +9,7 @@ class ScreenListAnimals extends StatelessWidget {
       'nombre': 'Gato',
       'descripcion': 'El gato es un felino domestico.',
       'imagen': 'assets/images/gato.jpg',
-      'sonido': 'https://www.youtube.com/watch?v=su6_bKJJk74',
+      'sonido': 'assets/sounds/gato.mp3',
     },
     {
       'nombre': 'Perro',
